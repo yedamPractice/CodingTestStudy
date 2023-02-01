@@ -3,9 +3,8 @@
 
 <br>
 ## ✔️ Rule
-
-
 <br>
+
 ## 🙋‍♂️ Study members
 [<img src="https://avatars.githubusercontent.com/u/113911282?v=4" width="200px">](https://github.com/seoyeon2001)|[<img src="https://avatars.githubusercontent.com/u/124170300?v=4" width="200px" alt=""/>](https://github.com/oz115) |[<img src="https://avatars.githubusercontent.com/u/87516405?v=4" width="200px" >](https://github.com/yedamhy)
 |:---:|:---:|:---:|
